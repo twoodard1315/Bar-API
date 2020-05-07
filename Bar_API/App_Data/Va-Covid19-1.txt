@@ -1,0 +1,6 @@
+"Status", "Value", { role: "style" }
+"Positive", 6500, "red"
+"Negative", 37669, "green"
+"Recovered", 752, "pink"
+"Death", 195, "black"
+"Total", 44665, "blue"

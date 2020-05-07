@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bar_API", "Bar_API\Bar_API.csproj", "{5178A63E-7979-4B43-BBA0-E3ECD5AF7E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5178A63E-7979-4B43-BBA0-E3ECD5AF7E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5178A63E-7979-4B43-BBA0-E3ECD5AF7E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5178A63E-7979-4B43-BBA0-E3ECD5AF7E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5178A63E-7979-4B43-BBA0-E3ECD5AF7E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AAC2A9-7D5C-45E6-908E-ACAC0459B8D9}
+	EndGlobalSection
+EndGlobal
